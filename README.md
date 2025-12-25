@@ -102,3 +102,9 @@ file hello.elf
 - 沒有 Section Header Table，某些工具（如 `objdump -D`）可能無法正確解析
 - 地址計算是硬編碼的，不支援動態連結
 - 僅包含基本的程式段，沒有動態連結器資訊
+
+## 參考
+- Tool Interface Standard (TIS) Executable and Linking Format (ELF) Specification
+- https://zh.wikipedia.org/zh-tw/%E5%8F%AF%E5%9F%B7%E8%A1%8C%E8%88%87%E5%8F%AF%E9%8F%88%E6%8E%A5%E6%A0%BC%E5%BC%8F
+- <img width="680" height="1135" alt="image" src="https://github.com/user-attachments/assets/e283bb98-8f7d-49db-b885-4059e2e17c9c" />
+
